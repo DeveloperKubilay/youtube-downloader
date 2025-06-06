@@ -1,0 +1,27 @@
+{
+  "name": "localstorage",
+  "version": "1.0.0",
+  "description": "Nodejs'den hem video hem müzik indirme uygulaması video editleme'si için mükemmel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloperKubilay/youtube-downloader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DeveloperKubilay/youtube-downloader/issues"
+  },
+  "homepage": "https://github.com/DeveloperKubilay/youtube-downloader#readme",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@vreden/youtube_scraper": "^1.2.7",
+    "fluent-ffmpeg": "^2.1.3",
+    "node-fetch": "^2.7.0"
+  }
+}
