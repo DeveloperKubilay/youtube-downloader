@@ -31,4 +31,4 @@ npm i
 This tool is for personal use only! Don't be doing anything sus with it. 
 Respect YouTube's TOS: [https://www.youtube.com/static?template=terms](https://www.youtube.com/static?template=terms)
 
-Developed by Kubi ✨
+Made with ✨ by DeveloperKubilay 
