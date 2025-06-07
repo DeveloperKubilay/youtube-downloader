@@ -24,7 +24,7 @@ npm i
    - Press `1` for video
    - Press `2` for audio
 3. Paste YouTube URL or it'll grab from clipboard if available
-4. Wait for it to finish downloading - that's it, fr fr! 💪
+4. Wait for it to finish downloading - that's it
 
 ## ⚠️ Disclaimer
 
