@@ -1,6 +1,8 @@
 # 🔥 YouTube Downloader 🔥
 
-Yo, this lit tool lets you snatch videos AND music straight from YouTube without the ytdl-core! Perfect for all my video editors out there tryna get that content! 💯
+Yo, this tool lets you snatch videos AND music straight from YouTube without the ytdl-core! Perfect for all my video editors out there tryna get that content! 💯
+
+![yt-downloader](https://raw.githubusercontent.com/DeveloperKubilay/youtube-downloader/refs/heads/main/image.gif)
 
 ## ⚡️ Features
 
